@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alkalami&family=Arima:wght@300&family=Arizonia&family=Berkshire+Swash&family=Cormorant+SC:wght@700&family=Courgette&family=Fira+Sans+Extra+Condensed:ital,wght@1,300&family=Fredoka+One&family=Ibarra+Real+Nova&family=Josefin+Slab:ital@1&family=Kalam:wght@300;700&family=Kaushan+Script&family=Koulen&family=Marhey:wght@300&family=Nosifer&family=Nothing+You+Could+Do&family=Noto+Serif&family=Noto+Serif+Oriya&family=Oleo+Script+Swash+Caps:wght@700&family=Paytone+One&family=Philosopher:ital,wght@1,700&family=Playfair+Display:ital,wght@1,500&family=Rozha+One&family=Rubik+Marker+Hatch&family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro:wght@300&family=Yeseva+One&display=swap');
+
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #4a3d564d !important;
+}
+
+.bg{
+  background-color: #33363d;
+}
+
+.font{
+  font-family: 'Kalam', cursive;
+  color: white;
+}
+.font:hover{
+  color:#cecaca;
+}
+
+.text{
+  color: red;
+}
+
+.nav-link{
+  color: white;
+  font-family: 'Kalam', cursive;
+}
+.nav-link:hover{
+  color:#4d7b90;
+}
